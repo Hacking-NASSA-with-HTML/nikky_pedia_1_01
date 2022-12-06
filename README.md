@@ -1,7 +1,7 @@
-# Nikky-pedia_1_01
-React app about Nicole Kidman.
+# nikky_pedia_1_01
+
 <br>
-## currently in development mode for the external deployment.
+## Educational FULL-STACK javascript React app about Nicole Kidman.
 ---
 front-end kit:
 ```
@@ -9,4 +9,10 @@ npm i react-redux @reduxjs/toolkit redux-persist react-dropzone dotenv formik yu
 ```
 
 ---
-App to deploy.
+Currently 
+    BACK-END 
+https://github.com/Hacking-NASSA-with-HTML/backend_nikky_pedia_1_01
+deployed on Railway https://nikky-pedia-backend.up.railway.app (needs activation, 
+may be turned off because Railway limits,
+ask me to turn it on if you would like to see the app). 
+    FRONT-END deployed on https://nikky-pedia.netlify.app May be turned off because Railway limits

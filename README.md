@@ -1,6 +1,5 @@
 # nikky_pedia_1_01
 
-<br>
 ## Educational FULL-STACK javascript React app about Nicole Kidman.
 ---
 front-end kit:

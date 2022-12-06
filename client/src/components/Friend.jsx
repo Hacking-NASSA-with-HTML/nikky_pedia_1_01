@@ -23,7 +23,7 @@ const Friend = ({ friendId, name, subtitle, userPicturePath }) => {
 
     const patchFriend = async () => {
         const response = await fetch(
-            `https://nikky-pedia.netlify.app/users/${_id}/${friendId}`,
+            `https://nikky-pedia-backend.up.railway.app/users/${_id}/${friendId}`,
             {
                 method: "PATCH",
                 headers: {

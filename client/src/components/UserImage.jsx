@@ -8,7 +8,7 @@ const UserImage = ({ image, size = "60px" }) => {
                 width={size}
                 height={size}
                 alt="user"
-                src={`https://nikky-pedia.netlify.app/assets/${image}`}
+                src={`https://nikky-pedia-backend.up.railway.app/assets/${image}`}
             />
         </Box>
     );
